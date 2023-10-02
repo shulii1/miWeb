@@ -1,33 +1,8 @@
-*{
-    text-align: center;
-    background-color:turquoise;
-}
-
 h1{
-    font-family: 'Borel', cursive;
     text-decoration:underline;
-    color:blue;
+    color:orangered;
 }
 
-nav{
-    display:inline;
-    background-color:lightgreen;
-   
 
-    display: flex;
-    justify-content:space-around;
 
-    padding-top:25px;
-    padding-bottom: 25px;
-}
 
-a{
-padding:15px;
-text-decoration:none;
-background-color:lightseagreen;
-color: black;
-font-family: 'Borel', cursive;
-border-radius:30%;
-
-border-style: groove;
-}
