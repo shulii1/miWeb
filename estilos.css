@@ -1,6 +1,49 @@
-body{
-      background-color: blue;
-}
+*{
+    background-color:#F2DABD;
+    font-family: 'Mooli', sans-serif;
+    }
+    h1{
+          font-family: 'Borel', cursive;
+          color:black;
+    padding: 0px;
+    margin: 20px;
+    }
+    nav{
+          display:inline;
+          background-color:#BFB39B;
+         
+      
+          display: flex;
+          justify-content:space-around;
+      
+          padding-top:25px;
+          padding-bottom: 25px;
+      }
+    
+      #barra{
+          padding:15px;
+          text-decoration:none;
+          background-color:#A69677;
+          color: black;
+          font-family: 'Borel', cursive;
+          border-radius:30%;
+          
+          border-style: groove;
+          }
+          
+          
+          #barra:hover{
+              padding-top:30px;
+              padding-bottom:30px;
+              padding: 30px;;
+              background-color:#F2F2F2;
+              color:black;
+              transition:0.5s;
+              border-radius:30%;
+          
+              border-style: groove;
+              border-color: #205A8C;
+          }
 
 
 
